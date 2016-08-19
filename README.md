@@ -4,5 +4,8 @@
 
 Treinando o uso do Gulp
 
+- [ ] gulp-jade
 - [ ] gulp-sass
 - [ ] browser-sync
+- [ ] gulp-uglify
+- [ ] gulp-imagemin
