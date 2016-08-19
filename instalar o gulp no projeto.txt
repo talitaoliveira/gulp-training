@@ -1,0 +1,22 @@
+npm install -g gulp
+-- no projeto
+npm install --save-dev gulp
+npm install gulp-sass browser-sync
+
+
+=======================================
+
+npm init
+npm install --save-dev gulp
+npm install --save-dev gulp-sass browser-sync
+
+criar o gulp file
+
+criar as pastas 
+scr - codigo que vou fazer
+build - codigo que vai gerar
+
+dentro de src 
+pasta html e css
+dentro de html o index.html
+dentro de css o style.sass
