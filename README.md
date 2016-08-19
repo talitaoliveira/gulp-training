@@ -2,4 +2,4 @@
 
 ![GULP](http://www.codeproject.com/KB/HTML/865943/gulp.png)
 
-Learning how to use Gulp
+Treinando o uso do Gulp
