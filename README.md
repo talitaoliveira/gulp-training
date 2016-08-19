@@ -5,7 +5,7 @@
 Treinando o uso do Gulp
 
 - [ ] gulp-jade
-- [ ] gulp-sass
-- [ ] browser-sync
+- [x] gulp-sass
+- [x] browser-sync
 - [ ] gulp-uglify
 - [ ] gulp-imagemin
